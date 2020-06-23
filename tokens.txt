@@ -1,8 +1,8 @@
 corretos:
-acbaaac
-acbbac
-bb
-acc
+acbaaac ok em 13 iterações
+acbbac ok em 11 iterações
+bb ok em 5 iterações
+acc ok em 7 iterações
 
 errados:
 bacaba erro em 6 iterações
